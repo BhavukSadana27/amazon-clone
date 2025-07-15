@@ -28,7 +28,7 @@ A simple Amazon-style e-commerce clone built with React.js to practice modern fr
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/BhavukSadana27/amazon-clone.git
 cd amazon-clone
 npm install
 ````
