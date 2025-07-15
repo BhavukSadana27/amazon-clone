@@ -7,7 +7,7 @@ A simple Amazon-style e-commerce clone built with React.js to practice modern fr
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Browse products
 - Add to cart
@@ -16,14 +16,14 @@ A simple Amazon-style e-commerce clone built with React.js to practice modern fr
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - [React](https://reactjs.org/)
 
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 Clone the repository and install dependencies:
 
@@ -43,7 +43,4 @@ npm start
 ![WhatsApp Image 2025-07-15 at 05 27 19_1888f349](https://github.com/user-attachments/assets/625ee4ad-a7ff-493c-8e91-f0763c1e8e00)
 
 
-Open [http://localhost:3000](http://localhost:3000) (or Vite default: [http://localhost:5173](http://localhost:5173)) to view it in the browser.
-
----
 
